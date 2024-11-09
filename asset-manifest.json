@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/proyectoux/static/css/main.b153c36f.css",
+    "main.js": "/proyectoux/static/js/main.24f26ac3.js",
+    "static/js/453.f9caf192.chunk.js": "/proyectoux/static/js/453.f9caf192.chunk.js",
+    "static/media/fa-solid-900.ttf": "/proyectoux/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/proyectoux/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/Logo.webp": "/proyectoux/static/media/Logo.d2a2f5c544486e80eb42.webp",
+    "static/media/fa-solid-900.woff2": "/proyectoux/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/proyectoux/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/proyectoux/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/proyectoux/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/proyectoux/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/proyectoux/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/slick.svg": "/proyectoux/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/proyectoux/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/proyectoux/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/proyectoux/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/proyectoux/index.html",
+    "main.b153c36f.css.map": "/proyectoux/static/css/main.b153c36f.css.map",
+    "main.24f26ac3.js.map": "/proyectoux/static/js/main.24f26ac3.js.map",
+    "453.f9caf192.chunk.js.map": "/proyectoux/static/js/453.f9caf192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b153c36f.css",
+    "static/js/main.24f26ac3.js"
+  ]
+}
